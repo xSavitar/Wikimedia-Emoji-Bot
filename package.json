@@ -1,12 +1,16 @@
 {
-  "name": "NYPL-Emoji-Bot",
-  "version": "0.0.0",
-  "description": "NYPL Emoji Bot",
-  "author": "Lauren Lampasone",
+  "name": "Wikimedia-Emoji-Bot",
+  "version": "1.0.0",
+  "description": "Wikimedia Emoji Bot",
+  "author": {
+    "primary": "Lauren Lampasone",
+    "secondary": "Alangi Derick"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lolibrarian/NYPL-Emoji-Bot"
+    "url": "https://github.com/ch3nkula/Wikimedia-Emoji-Bot",
+    "forked": "https://github.com/lolibrarian/NYPL-Emoji-Bot"
   },
   "dependencies": {
     "twit": "1.x",
@@ -14,9 +18,9 @@
     "thenby": "^1.2.1"
   },
   "bugs": {
-    "url": "https://github.com/lolibrarian/NYPL-Emoji-Bot/issues"
+    "url": "https://github.com/ch3nkula/Wikimedia-Emoji-Bot/issues"
   },
-  "homepage": "https://github.com/lolibrarian/NYPL-Emoji-Bot",
+  "homepage": "https://github.com/ch3nkula/Wikimedia-Emoji-Bot",
   "main": "src/status.js",
   "devDependencies": {
     "eslint": "^3.3.0",
