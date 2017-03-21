@@ -1,8 +1,6 @@
-# NYPL Emoji Bot
+# Wikimedia Emoji Bot
 
-<a href='https://travis-ci.org/ch3nkula/Wikimedia-Emoji-Bot'>
-  <img src='https://api.travis-ci.org/ch3nkula/Wikimedia-Emoji-Bot.png' alt='Travis CI build status' />
-</a>
+[![Build Status](https://travis-ci.org/ch3nkula/Wikimedia-Emoji-Bot.svg?branch=master)](https://travis-ci.org/ch3nkula/Wikimedia-Emoji-Bot)
 
 The source code for the Wikimedia Emoji Bot lives here
 
@@ -64,6 +62,6 @@ Emoji additions, bug reports, fixes, and new features are welcomed. If you'd lik
 
 3. Create a Pull Request
 
-## Forked
+## Forked / Built on
 
-This project is originally forked from https://github.com/lolibrarian/NYPL-Emoji-Bot
+This project is originally built on https://github.com/lolibrarian/NYPL-Emoji-Bot project. Initial credits go: Lauren Lampasone and other contributors for building the NYPL-Emoji-Bot.
