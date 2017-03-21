@@ -5,7 +5,7 @@ language: node_js
 node_js:
   - "5.1"
 
-# travis notification to the #wikidata-feed irc channel
+# travis notification to the #wikidata-dev irc channel
 notifications:
   irc:
     channels:
