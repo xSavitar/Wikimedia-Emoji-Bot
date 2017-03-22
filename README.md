@@ -32,6 +32,16 @@ The source code for the Wikimedia Emoji Bot lives here
 
 5. [Get credentials for your bot](https://dev.twitter.com/) and complete the `.env`
 
+* When logged-in on the Twitter's developer site, check the link on the top menu `My apps` (and it will take you to this site: https://apps.twitter.com/) or go straight away to type: https://apps.twitter.com/ on your browser.
+
+* On the top-right, there is a button saying `Create New App`, click on it and follow the steps to fill in the form fields.
+
+* Click the `Create your Twitter Application` button when you finish the immediate above step.
+
+* Once the application is created, under the `Details` section, you will find the credentials to fill into your `.env` file and additionally, under the `Keys and Access tokens`, you will find all the keys and access tokens needed in the `.env` file.
+
+* When all these configs are done, your app can then connect to Twitter successfully and perform its various functions.
+
 ## Usage
 
 ### To post a status
