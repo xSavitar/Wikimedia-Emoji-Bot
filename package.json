@@ -23,7 +23,7 @@
   "homepage": "https://github.com/ch3nkula/Wikimedia-Emoji-Bot",
   "main": "src/status.js",
   "devDependencies": {
-    "eslint": "^3.3.0",
+    "eslint": "^6.5.1",
     "foreman": "^1.4.1",
     "mocha": "^3.0.2"
   },
